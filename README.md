@@ -15,7 +15,7 @@ A custom fork of the Linux 4.14 kernel for the sm6150 (Redmi Note 10 Pro) archit
 - Engineered a fully automated **GitHub Actions CI/CD pipeline** to cross-compile the kernel in the cloud using Neutron Clang.
 - Automated **AnyKernel3** packaging and zip-signing.
 - Conducted deep-dive forensic debugging using `dmesg` and `pstore` ramoops to trace `init` failures and DTBO mismatches.
-- [View Repository](#)
+- [View Repository](https://github.com/aditrathour07/AeroKernel-sweet)
 
 #### 🤖 Local Systems-Agent (GGUF LLM)
 A custom-trained, offline AI model specialized in low-level systems engineering.
